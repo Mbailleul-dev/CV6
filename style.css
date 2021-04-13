@@ -40,7 +40,7 @@ h2 { font-size: 2.5rem; text-decoration: underline;}
     -o-animation: Animate-HTML 12s;
     height: 50px;
     position: absolute;
-    background-color: orange;
+    background-color: rgb(255,186,8);
 }
 @keyframes Animate-HTML {
     from {
@@ -74,7 +74,7 @@ to {
     width: 70%;
     height: 50px;
     position: absolute;
-    background-color: cyan;
+    background-color: rgb(220, 47, 2);
 }
 @keyframes Animate-CSS {
     from {
@@ -108,7 +108,7 @@ to {
     width: 50%;
     height: 50px;
     position: absolute;
-    background-color: darkseagreen;
+    background-color: rgb(250,163,7);
 }
 @keyframes Animate-jQuery {
     from {
@@ -142,7 +142,7 @@ to {
     width: 40%;
     height: 50px;
     position: absolute;
-    background-color: red;
+    background-color: rgb(208, 0, 0);
 }
 @keyframes Animate-JS {
     from {
@@ -176,7 +176,7 @@ to {
     width: 40%;
     height: 50px;
     position: absolute;
-    background-color: green;
+    background-color: rgb(244, 140, 6);
 }
 @keyframes Animate-XML {
     from {
@@ -210,7 +210,7 @@ to {
     width: 20%;
     height: 50px;
     position: absolute;
-    background-color: goldenrod;
+    background-color: rgb(157, 2, 8);
 }
 @keyframes Animate-C {
     from {
@@ -244,7 +244,7 @@ to {
     width: 20%;
     height: 50px;
     position: absolute;
-    background-color: greenyellow;
+    background-color: rgb(232, 93, 4);
 }
 @keyframes Animate-JAVA {
     from {
@@ -278,7 +278,7 @@ to {
     width: 30%;
     height: 50px;
     position: absolute;
-    background-color: lightskyblue;
+    background-color: rgb(106, 4, 15);
 }
 @keyframes Animate-PHP {
     from {
@@ -312,7 +312,7 @@ to {
     width: 20%;
     height: 50px;
     position: absolute;
-    background-color: moccasin;
+    background-color: red;
 }
 @keyframes Animate-SQL {
     from {
@@ -346,7 +346,7 @@ to {
     width: 20%;
     height: 50px;
     position: absolute;
-    background-color: gold;
+    background-color: goldenrod;
 }
 @keyframes Animate-VBNET {
     from {
